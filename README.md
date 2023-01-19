@@ -16,6 +16,5 @@ Welcome to the News App! Our app provides you with the latest news from Indonesi
 
 ## Preview
 <img src="https://github.com/vinrawanzzz/fl_news_app/blob/main/assets/example1.jpg?raw=true" width="250">
-![example2](https://github.com/vinrawanzzz/fl_news_app/blob/main/assets/example2.jpg?raw=true=250x250)
-![example3](https://github.com/vinrawanzzz/fl_news_app/blob/main/assets/example3.jpg?raw=true=250x250)
-
+<img src="https://github.com/vinrawanzzz/fl_news_app/blob/main/assets/example2.jpg?raw=true" width="250">
+<img src="https://github.com/vinrawanzzz/fl_news_app/blob/main/assets/example3.jpg?raw=true" width="250">

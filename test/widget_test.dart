@@ -15,5 +15,6 @@ void main() {
   testWidgets('Test fetching news articles', (WidgetTester tester) async {
     List<Article> articles = await ApiService.getArticle("general");
     expect(articles.length, greaterThan(0));
+    expect(articles[0], isInstanceOf<Article>());
   });
 }

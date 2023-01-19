@@ -14,3 +14,4 @@ Welcome to the News App! Our app provides you with the latest news from Indonesi
 3. Browse through the latest news and read the articles that catch your attention.
 4. Share articles with your friends and family.
 
+## Preview

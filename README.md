@@ -15,3 +15,4 @@ Welcome to the News App! Our app provides you with the latest news from Indonesi
 4. Share articles with your friends and family.
 
 ## Preview
+![alt text](https://github.com/vinrawanzzz/fl_news_app/blob/main/assets/example1.jpg?raw=true)
